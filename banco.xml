@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns:s="https://www.bancosantander.es/particulares" xmlns:l="https://www.maisonsdumonde.com/ES/es/c/bancos-a2ccce46cf79645335c345b952e28a4f">
+    <s:banco>
+        <nombre>Banco Santander</nombre>
+        <direccion>Gran Vía, 123, 28013 Madrid, España</direccion>
+        <telefono>912345678</telefono>
+    </s:banco>
+    <s:banco>
+        <nombre>BBVA</nombre>
+        <direccion>Paseo de la Castellana, 456, 28006 Madrid, España</direccion>
+        <telefono>987654321</telefono>
+    </s:banco>
+    <s:banco>
+        <nombre>CaixaBank</nombre>
+        <direccion>Puerta del Sol, 789, 28046 Madrid, España</direccion>
+        <telefono>765432109</telefono>
+    </s:banco>
+    <s:banco>
+        <nombre>Sabadell</nombre>
+        <direccion>Paseo del Prado</direccion>
+        <telefono>234567890</telefono>
+    </s:banco>
+    <s:banco>
+        <nombre>Banco Popular</nombre>
+        <direccion>Calle Huertas</direccion>
+        <telefono>890123456</telefono>
+    </s:banco>
+    <l:banco>
+        <ubicacion>Gran Vía</ubicacion>
+        <color>Azul</color>
+        <material>Madera</material>
+    </l:banco>
+    <l:banco>
+        <ubicacion>Paseo de la Castellana</ubicacion>
+        <color>Rojo</color>
+        <material>Metal</material>
+    </l:banco>
+    <l:banco>
+        <ubicacion>Puerta del Sol</ubicacion>
+        <color>Verde</color>
+        <material>Plástico</material>
+    </l:banco>
+    <l:banco>
+        <ubicacion>Paseo del Prado</ubicacion>
+        <color>Amarillo</color>
+        <material>Madera</material>
+    </l:banco>
+    <l:banco>
+        <ubicacion>Calle Huertas</ubicacion>
+        <color>Negro</color>
+        <material>Metal</material>
+    </l:banco>
+</root>

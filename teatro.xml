@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teatro>
+    <obra>
+        <autor>
+            <nombre>William Shakespeare</nombre>
+            <fechaNacimiento>abril de 1564</fechaNacimiento>
+            <paisNatal>Inglaterra</paisNatal>
+        </autor>
+        <director>Franco Zeffirelli</director>
+        <fechaEstreno>1597</fechaEstreno>
+        <genero>Tragedia</genero>
+        <titulo>Romeo y Julieta</titulo>
+    </obra>
+    <obra>
+        <autor>
+            <nombre>Federico García Lorca</nombre>
+            <fechaNacimiento>5 de junio de 1898</fechaNacimiento>
+            <paisNatal>España</paisNatal>
+        </autor>
+        <director>Mario Camus</director>
+        <fechaEstreno>8 de marzo de 1945</fechaEstreno>
+        <genero>Dramático</genero>
+        <titulo>La Casa de Bernarda Alba</titulo>
+    </obra>
+    <obra>
+        <autor>
+            <nombre>Fernando de Rojas</nombre>
+            <fechaNacimiento>1470</fechaNacimiento>
+            <paisNatal>España</paisNatal>
+        </autor>
+        <director>Gerardo Vera</director>
+        <fechaEstreno>1499</fechaEstreno>
+        <genero>Dramático</genero>
+        <titulo>La Celestina</titulo>
+    </obra>
+    <obra>
+        <autor>
+            <nombre>Calderón de la Barca</nombre>
+            <fechaNacimiento>17 de enero de 1600</fechaNacimiento>
+            <paisNatal>España</paisNatal>
+        </autor>
+        <director>Declan Donnellan</director>
+        <fechaEstreno>1635</fechaEstreno>
+        <genero>Dramático</genero>
+        <titulo>La Vida es Sueño</titulo>
+    </obra>
+    <obra>
+        <autor>
+            <nombre>William Shakespeare</nombre>
+            <fechaNacimiento>17 de enero de 1600</fechaNacimiento>
+            <paisNatal>Inglaterra</paisNatal>
+        </autor>
+        <director>Laurence Olivier</director>
+        <fechaEstreno>abril de 1564</fechaEstreno>
+        <genero>Tragedia</genero>
+        <titulo>Hamlet</titulo>
+    </obra>
+    <obra>
+        <autor>
+            <nombre>Gaston Leroux</nombre>
+            <fechaNacimiento>6 de mayo de 1868</fechaNacimiento>
+            <paisNatal>Francia</paisNatal>
+        </autor>
+        <director>Joel Schumacher</director>
+        <fechaEstreno>9 de octubre de 1986</fechaEstreno>
+        <genero>Horror</genero>
+        <titulo>El Fantasma de la Ópera</titulo>
+    </obra>
+    <obra>
+        <autor>
+            <nombre>William Shakespeare</nombre>
+            <fechaNacimiento>17 de enero de 1600</fechaNacimiento>
+            <paisNatal>Inglaterra</paisNatal>
+        </autor>
+        <director>Nicholas Hytner</director>
+        <fechaEstreno>1 de enero de 1605</fechaEstreno>
+        <genero>Comedia</genero>
+        <titulo>Sueño de una Noche de Verano</titulo>
+    </obra>
+    <obra>
+        <autor>
+            <nombre>José Zorrilla</nombre>
+            <fechaNacimiento>21 de febrero de 1817</fechaNacimiento>
+            <paisNatal>España</paisNatal>
+        </autor>
+        <director>Gustavo Pérez Puig</director>
+        <fechaEstreno>28 de marzo de 1844</fechaEstreno>
+        <genero>Drama Romántico</genero>
+        <titulo>Don Juan Tenorio</titulo>
+    </obra>
+    <obra>
+        <autor>
+            <nombre>Lope de Vega</nombre>
+            <fechaNacimiento>25 de noviembre de 1562</fechaNacimiento>
+            <paisNatal>España</paisNatal>
+        </autor>
+        <director>Antonio Román</director>
+        <fechaEstreno>1619</fechaEstreno>
+        <genero>Comedia</genero>
+        <titulo>Fuenteovejuna</titulo>
+    </obra>
+    <obra>
+        <autor>
+            <nombre>Dante Alighieri</nombre>
+            <fechaNacimiento>29 de mayo de 1265</fechaNacimiento>
+            <paisNatal>Italia</paisNatal>
+        </autor>
+        <director>Dante Alighieri</director>
+        <fechaEstreno>1472</fechaEstreno>
+        <genero>Poema épico</genero>
+        <titulo>La Divina Comedia</titulo>
+    </obra>
+</teatro>

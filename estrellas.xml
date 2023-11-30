@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns:s="Estrella de mar" xmlns:l="Estrella del espacio">
+    <s:estrella>
+        <nombre>Asteroidea</nombre>
+        <reino>Animalia</reino>
+        <dominio>Eukaryota</dominio>
+    </s:estrella>
+    <l:estrella>
+        <nombre>Sirio</nombre>
+        <distancia>310 años luz</distancia>
+        <temperatura>9.726ºC</temperatura>
+    </l:estrella>
+    <l:estrella>
+        <nombre>Canopus</nombre>
+        <distancia>310 años luz</distancia>
+        <temperatura>7.000ºC</temperatura>
+    </l:estrella>
+    <l:estrella>
+        <nombre>Arturo</nombre>
+        <distancia>36 años luz</distancia>
+        <temperatura>4.016ºC</temperatura>
+    </l:estrella>
+</root>
